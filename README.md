@@ -1,2 +1,2 @@
 # fsSystem
-fs
+myProject
